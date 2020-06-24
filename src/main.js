@@ -1,8 +1,8 @@
 import Vue from "vue";
 import App from "./App.vue";
-import Vuesax from "./assets/vuesax/vuesax.common.js";
+import Vuesax from "vuesax";
 
-import "./assets/vuesax/vuesax.css";
+import "vuesax/dist/vuesax.css";
 import "material-icons/iconfont/material-icons.css";
 
 Vue.use(Vuesax, {
