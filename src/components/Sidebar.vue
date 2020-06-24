@@ -118,7 +118,7 @@
 export default {
   name: "AppSidebar",
   data: () => ({
-    priceRange: 100,
+    priceRange: 50,
     selectedBrands: [],
     minPrice: 0,
     maxPrice: 100,
